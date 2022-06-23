@@ -30,7 +30,7 @@ Keywords: tennis, forehand, pose estimation, computer vision, analytics
 * The OpenPose .json files are located in the ./pose_output/ directory
 
 ## Findings and Discussion
-(I recognize that the face color of the axes may blend on dark mode. I fill fix on a future iteration of this README.me. For a closer look, please review the provided report/notebook.)
+(I recognize that the facecolor of the plot axes may blend on dark mode. I fill fix on a future iteration of this README.me. For a closer look, please review the provided report/notebook.)
 
 ![rog_fed_openpose_example](/images/rog_fed_openpose_example.png)
 
