@@ -17,7 +17,7 @@ Keywords: tennis, forehand, pose estimation, computer vision, analytics
 
 ## Navigation
 ### Primary Material
-* To access the full detailed conference paper, review [Tennis Like the Tennis Pros (Forehand Swing) - Eric Li.pdf](https://github.com/itstooerli/tennis-analysis/blob/main/Tennis%20Like%20the%20Tennis%20Pros%20(Forehand%20Swing)%20-%20Eric%20Li.pdf)
+* To access the full detailed conference-style paper, review [Tennis Like the Tennis Pros (Forehand Swing) - Eric Li.pdf](https://github.com/itstooerli/tennis-analysis/blob/main/Tennis%20Like%20the%20Tennis%20Pros%20(Forehand%20Swing)%20-%20Eric%20Li.pdf)
 * To access the video summary, review [ericLi_analytics_29.mp4](https://github.com/itstooerli/tennis-analysis/blob/main/ericLi_analytics_29.mp4)
 * To access the related presentation as a PDF, review [Presentation - Swing Like the Tennis Pros.pdf](https://github.com/itstooerli/tennis-analysis/blob/main/Presentation%20-%20Swing%20Like%20the%20Tennis%20Pros.pdf)
 * To access the related presentation as a PowerPoint presentation, review [Presentation - Swing Like the Tennis Pros.pptx](https://github.com/itstooerli/tennis-analysis/blob/main/Presentation%20-%20Swing%20Like%20the%20Tennis%20Pros.pptx)
@@ -30,7 +30,7 @@ Keywords: tennis, forehand, pose estimation, computer vision, analytics
 * The OpenPose .json files are located in the ./pose_output/ directory
 
 ## Findings and Discussion
-(I recognize that the facecolor of the plot axes may blend on dark mode. I fill fix on a future iteration of this README.me. For a closer look, please review the provided report/notebook.)
+(I recognize that the facecolor of the plot axes may blend on dark mode. I fill fix on a future iteration of this README.md. For a closer look, please review the provided report/notebook.)
 
 ![rog_fed_openpose_example](/images/rog_fed_openpose_example.png)
 
